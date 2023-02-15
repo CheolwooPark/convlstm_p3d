@@ -4,7 +4,8 @@
 * There could be a lot of typo and error. Any comments are appreciated.      
 * I made this repogitory to organize my previous personal / toy projects.    
 * I lost my original code. I would update the code after digging my old deep learning machine disk.       
-* There are some log of training, testing, validating, and the paper with chart    
+* There are some log of training, testing, validating, and the paper with chart.    
+* After 6 page, Contents are wrotten in English.   
 
 ## Idea    
 

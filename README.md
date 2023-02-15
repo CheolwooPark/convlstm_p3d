@@ -5,7 +5,7 @@
 * I made this repogitory to organize my previous personal / toy projects.    
 * I lost my original code. I would update the code after digging in my old deep learning machine disk.       
 * There are some log of training, testing, validating, and the paper with chart.    
-* After 6 page, Contents are wrotten in English.   
+* After 6 page, Contents are written in English.   
 
 ## Idea    
 
